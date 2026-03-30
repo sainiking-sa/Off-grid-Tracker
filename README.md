@@ -313,19 +313,17 @@ This feature prevents user misidentification and ensures precise tracking when m
 
 ##  Team
 
-* **Team Name:** *Neogen Innovators*
-* **Members:** 
+Team Name:Neogen Innovators
+Members:
+Nevid Alam 
+Sumaira 
+Mukul 
+Sahil 
+Deepanshu 
+Shiny
 
-    *Sumaira*
 
-    *Shiny*
 
-    *Mohd Zaid Anasri*
-
-    *Nevid Alam*
     
-* **Hackathon:** *HACK THE WINTER(THE SECOND WAVE)*
-
----
-
+    
 
